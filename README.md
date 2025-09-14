@@ -18,8 +18,8 @@
 
 ## Установка и запуск
 ```bash
-git clone git@github.com:Alena-Shishkina/Project_Sprint_2.git
-cd Project_Sprint_2
+git clone git@github.com:Alena-Shishkina/Java-oop-task.git
+cd Java-oop-task
 mvn clean compile
 mvn exec:java -Dexec.mainClass="ru.practicum.Main"
 
